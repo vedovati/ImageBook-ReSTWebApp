@@ -1,1 +1,1 @@
-Cartella verranno salvate le immagini caricate
+Cartella dove verranno salvate le immagini caricate
