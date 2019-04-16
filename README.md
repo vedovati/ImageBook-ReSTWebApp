@@ -1,5 +1,6 @@
 # ImageBook
-Progetto di una WebApp ReSTful programmata in HTML, CSS e JS lato Client e PHP lato Server
+Progetto di una WebApp ReSTful programmata in HTML, CSS e JS lato Client e PHP lato Server.
+La pagina iniziale dell'applicazione è il main.php.
 
 ### Analisi
 Per accedere all'applicazione bisogna per prima cosa creare un proprio account, se non se ne ha già uno, e loggare con esso inserendo username e password nella pagina dedicata. Dopo essere loggati l'applicazione porterà alla home dove sarà possibile guardare tutte le immagini postate, sia dal proprio account che dagli altri, in ordine cronologico e mettere like a quelle piaciute. Sarà ovviamente possibile postare immagini con possibilità di aggiungerci una descrizione nella pagina apposita.
