@@ -4,6 +4,8 @@ Autenticazione utente da app attraverso webservice.
 Il progetto prevede l'utilizzo di un unico webservice per due applicazioni: una Web App ed una Appliazione Android.
 Il webservice utilizza PHP per la gestione delle richisete e MYSQL per la gestione del database.
 
+L'appicazione è accessibile tramite il link: http://vedovati.altervista.org
+
 ### Organizzazione del DataBase
 Il database dell'applicazione è composto da soltanto due tabelle:
 - Users (id, username, password): Tabella per la gestione degli utenti di cui l'username è univoco, non sarà quindi possibile creare un account con un username già usato.
